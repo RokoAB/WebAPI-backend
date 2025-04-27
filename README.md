@@ -11,4 +11,4 @@ The architecture design is the standard 3-layer:
 
 Controller → Logic → Repository (+ Database)
 
-It can be easily adjusted for other purposes
+It can be easily adjusted for other purposes.
