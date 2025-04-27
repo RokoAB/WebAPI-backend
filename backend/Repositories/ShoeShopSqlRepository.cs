@@ -11,7 +11,7 @@ namespace test.Repositories
 {
     public class ShoeShopSqlRepository : IShoeShopRepository
     {
-       // private readonly string _connectionString = "Data Source=\"C:\\Users\\rokob\\Desktop\\RokoAB-lab-071\\RokoAB-lab\\Shoes.db\""; /// <summary>
+       
         private readonly string? _connectionString;
         public ShoeShopSqlRepository(IOptions<DBConfiguration> configuration)
         {
